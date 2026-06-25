@@ -132,7 +132,6 @@ npm run dev
 
 ## 🔮 Future Scope
 
-📡 Real-time stock API integration
 🤖 Machine learning-based prediction
 📱 Mobile application development
 📊 Advanced trading strategies
